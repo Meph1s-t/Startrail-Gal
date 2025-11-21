@@ -16,6 +16,7 @@
 ---
 # 请注意上方的Status标签:In Development. 该项目目前还未完工, 仍然在制作中. 预计完工在12月31日之前. 我们将会在新年前给大家奉上星轨Gal版, 敬请期待.
 # 我们招募一切有志愿加入Startrail开发组的人! 目前我们正在火热招募中(快来吧球球你们了)! 详情可以发送邮件给1@startrailgal.xyz
+# 快来吧TAT我们正在奋力制作中如果没人来帮帮我们工期可能延迟的QAQ快来电邮联系我们罢.
 <img width="1276" height="422" alt="image" src="https://github.com/user-attachments/assets/7e951579-f873-4fe4-b500-a5fe0b9180d2" />
 
 ## 中文
